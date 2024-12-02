@@ -51,10 +51,10 @@ A simple snake game implemented in Python using the `turtle` module. The game in
 ## Screenshots 📸
 
 ### Game Running
-![Game Running](/Snake_Game/images/InGame.png)
+![Game Running](images/InGame.png)
 
 ### Game Paused
-![Game Running](/Snake_Game/images/Paused.png)
+![Game Running](images/Paused.png)
 
 ## How It Works 🧠
 
